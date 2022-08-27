@@ -102,10 +102,7 @@ margin-left: 10px;
 }
 
 /* work styles*/
-.work 
-{
 
-}
 .work_position
 {
     font-style: normal;
@@ -203,7 +200,7 @@ margin-top: 45px;
 }
 .contact_link
 {
-    ont-style: normal;
+    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
